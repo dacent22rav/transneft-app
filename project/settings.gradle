@@ -1,0 +1,3 @@
+
+rootProject.name = "TransneftApp"
+include(":app")
